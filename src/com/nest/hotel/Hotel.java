@@ -8,11 +8,12 @@ public class Hotel {
 
         public static void main(String[] args) {
             int y;
+
             Scanner s = new Scanner(System.in);
             while (true) {
                 System.out.println("enter the choice");
                 System.out.println("1.Tea 10$");
-                System.out.println("2.juice 30$");
+                System.out.println("2.juice 50$");
                 System.out.println("3.cake 35$");
                 System.out.println("4.Sweet Porotta 15$");
                 System.out.println("5.ice cream 35$");
